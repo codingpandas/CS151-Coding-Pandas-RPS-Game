@@ -1,0 +1,10 @@
+Main Method is in the RPSGameTester.java
+
+How to run in console:
+java RPSGameTester Number_Of_Throws
+
+Example:
+java RPSGameTester 6
+
+How to run in Netbeans:
+In the Project Explorer, right click on rpsGameTester project, go to set configuration > customize > in arguments, input the number_Of_Throws
